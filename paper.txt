@@ -1,1 +1,3 @@
 just some stuff about dunes
+subtitle: A rope of sand
+Authors: Me, myself and I
