@@ -3,3 +3,4 @@ reviewer_comments.txt
 *.pdf
 *.jpeg
 subfolder_a/
+!dont_ignore.png
